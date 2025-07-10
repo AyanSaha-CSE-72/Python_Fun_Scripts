@@ -16,6 +16,7 @@ Whether you're into terminal art, typing effects, or unique code-based visuals, 
 
 ---
 
+
 ## 🚀 How to Run
 
 Make sure you have Python installed. Then run any script like this:
